@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center; 
+    padding: 50px; 
+    color :aliceblue; 
+    background-image : url(./media/EscapeGamePalestra2.png); 
+    background-repeat : no-repeat;
+	background-size : cover;
+}
+
+
+#feedback { 
+    display: none; 
+    margin-top: 20px; 
+}
+
+#video { 
+    display: none; 
+    margin-top: 20px; 
+}
